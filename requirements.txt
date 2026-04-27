@@ -1,0 +1,5 @@
+flask>=3.0.0
+python-docx>=1.1.0
+python-dotenv>=1.0.0
+# httpx is optional — the agent uses urllib (built-in) by default.
+# If you prefer httpx: pip install httpx
